@@ -1,0 +1,7 @@
+F:/active/geant4/tamrin/test2/out/build/x64-Debug/CMakeFiles/batiar-Main.dir
+F:/active/geant4/tamrin/test2/out/build/x64-Debug/CMakeFiles/Workshop-exmple.dir
+F:/active/geant4/tamrin/test2/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+F:/active/geant4/tamrin/test2/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+F:/active/geant4/tamrin/test2/out/build/x64-Debug/CMakeFiles/list_install_components.dir
+F:/active/geant4/tamrin/test2/out/build/x64-Debug/CMakeFiles/install.dir
+F:/active/geant4/tamrin/test2/out/build/x64-Debug/CMakeFiles/install/local.dir
